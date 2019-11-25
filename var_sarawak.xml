@@ -55,7 +55,7 @@
 <w rt="nya">Nya</w>
 <w rt="sik">sik</w>
 <w rt="maok">maok</w>
-<w rt="kaco" p1="di-">dikaco</w>
+<w rt="kaco" p1="di-" pa="DP">dikaco</w>
 <w rt="urang">urang</w>
 <g/>
 <pu>.</pu>
@@ -292,7 +292,7 @@
 <w rt="burong">burong</w>
 <w rt="sik">sik</w>
 <w rt="mok">mok</w>
-<w rt="kaco" p1="di-">dikaco</w>
+<w rt="kaco" p1="di-" pa="DP">dikaco</w>
 <w rt="orang">orang</w>
 <g/>
 <pu>,</pu>
@@ -459,7 +459,7 @@
 <w rt="pokok">pokok</w>
 <w rt="tangga" r="R-separa">tetangga</w>
 <w rt="ikan">ikan</w>
-<w rt="embak" p1="di-">diembak</w>
+<w rt="embak" p1="di-" pa="oleh">diembak</w>
 <w rt="leh">leh</w>
 <w rt="burong">burong</w>
 </s>
@@ -553,7 +553,7 @@
 <w rt="senang">senang</w>
 <w rt="jak">jak</w>
 <w rt="maok">maok</w>
-<w rt="tipu" p1="di-">ditipu</w>
+<w rt="tipu" p1="di-" pa="pro">ditipu</w>
 <g/>
 <pu>.</pu>
 </s>
@@ -1010,7 +1010,7 @@
 <w rt="ikan">ikan</w>
 <w rt="ni">ni</w>
 <w rt="dapat">dapat</w>
-<w rt="embak" p1="di-">diembak</w>
+<w rt="embak" p1="di-" pa="DP">diembak</w>
 <w rt="burung">burung</w>
 <w rt="terbang">terbang</w>
 <g/>
@@ -1024,7 +1024,7 @@
 <pu>,</pu>
 <w rt="munsang">munsang</w>
 <w rt="tuk">tuk</w>
-<w rt="diat" p1="N-">ndiatlah</w>
+<w rt="diat" p1="N-" s1="-lah">ndiatlah</w>
 <g/>
 <pu>,</pu>
 <w rt="diat" p1="N-">ndiat</w>
@@ -1040,12 +1040,12 @@
 </doc>
 <doc url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201807.txt" subcorpus="var_sarawak">
 <s id="var_sarawak.0000066" subcorpus="var_sarawak" url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201807.txt">
-<w rt="kokot">Kotan</w>
+<w rt="kotan">Kotan</w>
 <w rt="nak">nak</w>
 <w rt="diat">diat</w>
 <w rt="burong">burong</w>
 <w rt="kesian">kesian</w>
-<w rt="buang" p1="di-">dibuang</w>
+<w rt="buang" p1="di-" pa="pro">dibuang</w>
 <w rt="ke">ke</w>
 <w rt="bah">bah</w>
 <w rt="ikan">ikan</w>
@@ -1077,10 +1077,10 @@
 <doc url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201807.txt" subcorpus="var_sarawak">
 <s id="var_sarawak.0000069" subcorpus="var_sarawak" url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201807.txt">
 <w rt="ikan">Ikan</w>
-<w rt="lepas" p1="di-">dilepas</w>
+<w rt="lepas" p1="di-" pa="pro">dilepas</w>
 <g/>
 <pu>,</pu>
-<w rt="buang" p1="di-">dibuang</w>
+<w rt="buang" p1="di-" pa="DP">dibuang</w>
 <w rt="nya">nya</w>
 <w rt="tadik">tadik</w>
 <g/>
@@ -1201,7 +1201,7 @@
 <pu>,</pu>
 <w rt="burong">burong</w>
 <w rt="dah">dah</w>
-<w rt="tipu" p1="di-">ditipu</w>
+<w rt="tipu" p1="di-" pa="pro">ditipu</w>
 <w rt="tek">tek</w>
 <g/>
 <pu>.</pu>
@@ -1274,7 +1274,7 @@
 <w rt="pun">pun</w>
 <w rt="burong">burong</w>
 <w rt="dah">dah</w>
-<w rt="ambik" p1="di-">diambik</w>
+<w rt="ambik" p1="di-" pa="DP">diambik</w>
 <w rt="munsang">munsang</w>
 <w rt="agik">agik</w>
 <g/>
@@ -1455,7 +1455,7 @@
 <doc url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201811.txt" subcorpus="var_sarawak">
 <s id="var_sarawak.0000094" subcorpus="var_sarawak" url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201811.txt">
 <w rt="yo">Yo</w>
-<w rt="Nye">nye</w>
+<w rt="nye">nye</w>
 <w rt="itung" p1="N-">ngitung</w>
 <w rt="belakang">belakang</w>
 <w rt="boyak">boyak</w>
@@ -1493,7 +1493,7 @@
 <g/>
 <pu>,</pu>
 <w rt="jangan">jangan</w>
-<w rt="gigit" p1="di-">digigit</w>
+<w rt="gigit" p1="di-" pa="pro">digigit</w>
 <g/>
 <pu>,</pu>
 <w rt="nya">nya</w>
@@ -1505,7 +1505,7 @@
 <w rt="kamek">kamek</w>
 <w rt="tuk">tuk</w>
 <w rt="bemban">bemban</w>
-<w rt="gigit" p1="di-">digigit</w>
+<w rt="gigit" p1="di-" pa="DP">digigit</w>
 <w rt="kita">kita</w>
 <w rt="tuk">tuk</w>
 <g/>
@@ -1515,7 +1515,7 @@
 <doc url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201811.txt" subcorpus="var_sarawak">
 <s id="var_sarawak.0000097" subcorpus="var_sarawak" url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201811.txt">
 <w rt="alu">Alu</w>
-<w rt="lepas" p1="di-">dilepas</w>
+<w rt="lepas" p1="di-" pa="oleh">dilepas</w>
 <w rt="oleh">oleh</w>
 <w rt="sang">sang</w>
 <w rt="boyak">boyak</w>
@@ -1547,7 +1547,7 @@
 <w rt="ikan">ikan</w>
 <g/>
 <pu>,</pu>
-<w rt="embak" p1="di-">diembak</w>
+<w rt="embak" p1="di-" pa="DP">diembak</w>
 <w rt="nya">nya</w>
 <w rt="terbang">terbang</w>
 <g/>
@@ -1557,7 +1557,7 @@
 <doc url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201812.txt" subcorpus="var_sarawak">
 <s id="var_sarawak.0000100" subcorpus="var_sarawak" url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201812.txt">
 <w rt="apabila">Apabila</w>
-<w rt="embak" p1="di-">diembak</w>
+<w rt="embak" p1="di-" pa="pro">diembak</w>
 <w rt="terbang">terbang</w>
 <g/>
 <pu>,</pu>
@@ -1659,7 +1659,7 @@
 <w rt="ikan">ikan</w>
 <w rt="tuk">tuk</w>
 <w rt="pun">pun</w>
-<w rt="lepas" p1="di-">dilepas</w>
+<w rt="lepas" p1="di-" pa="oleh">dilepas</w>
 <w rt="oleh">oleh</w>
 <w rt="burong">burong</w>
 <w rt="tuk">tuk</w>
@@ -1671,13 +1671,13 @@
 <s id="var_sarawak.0000107" subcorpus="var_sarawak" url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201812.txt">
 <w rt="apabila">Apabila</w>
 <w rt="apabila">apabila</w>
-<w rt="lepas" p1="di-">dilepas</w>
+<w rt="lepas" p1="di-" pa="DP">dilepas</w>
 <w rt="burong">burong</w>
 <w rt="tuk">tuk</w>
 <g/>
 <pu>,</pu>
 <w rt="betul">betul</w>
-<w rt="temu" p1="di-">ditemu</w>
+<w rt="temu" p1="di-" pa="oleh">ditemu</w>
 <w rt="oleh">oleh</w>
 <w rt="si">si</w>
 <w rt="sang">sang</w>
@@ -1734,7 +1734,7 @@
 <w rt="dah">dah</w>
 <g/>
 <pu>,</pu>
-<w rt="temu" p1="di-">ditemu</w>
+<w rt="temu" p1="di-" pa="oleh">ditemu</w>
 <w rt="oleh">oleh</w>
 <w rt="si">si</w>
 <w rt="munsang">munsang</w>
@@ -1865,7 +1865,7 @@
 <w rt="ikan">ikan</w>
 <w rt="pun">pun</w>
 <w rt="jatuh">jatuh</w>
-<w rt="makan" p1="di-">dimakan</w>
+<w rt="makan" p1="di-" pa="oleh">dimakan</w>
 <w rt="oleh">oleh</w>
 <w rt="si">si</w>
 <w rt="sang">sang</w>
@@ -2015,7 +2015,7 @@
 <w rt="apabila">Apabila</w>
 <w rt="apabila">apabila</w>
 <w rt="ikan">ikan</w>
-<w rt="dapat" p1="di-">didapat</w>
+<w rt="dapat" p1="di-" pa="oleh">didapat</w>
 <w rt="oleh">oleh</w>
 <w rt="nya">nya</w>
 <g/>
@@ -2156,7 +2156,7 @@
 <w rt="jak">jak</w>
 <g/>
 <pu>,</pu>
-<w rt="kaki" p1="ber-">bekaki</w>
+<w rt="kaki">bekaki</w>
 <w rt="ngan">ngan</w>
 <w rt="burit">burit</w>
 <g/>
@@ -2167,7 +2167,7 @@
 <s id="var_sarawak.0000131" subcorpus="var_sarawak" url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201815.txt">
 <w rt="apabila">Apabila</w>
 <w rt="nya">nya</w>
-<w rt="kaki" p1="ber-">bekaki</w>
+<w rt="kaki">bekaki</w>
 <w rt="ngan">ngan</w>
 <w rt="burit">burit</w>
 <g/>
@@ -2354,7 +2354,7 @@
 </doc>
 <doc url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201815.txt" subcorpus="var_sarawak">
 <s id="var_sarawak.0000141" subcorpus="var_sarawak" url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201815.txt">
-<w rt="sah" p1="di-">Disah</w>
+<w rt="sah" p1="di-" pa="oleh">Disah</w>
 <w rt="oleh">oleh</w>
 <w rt="sidak">sidak</w>
 <w rt="dokter">dokter</w>
@@ -2429,9 +2429,10 @@
 <w rt="nya">nya</w>
 <w rt="tuk">tuk</w>
 <w rt="mok">mok</w>
-<w rt="tahan" p1="di-">ditahan</w>
+<w rt="tahan" p1="di-" pa="pro">ditahan</w>
 <w rt="wad">wad</w>
-<w rt="kato" s1="-nya">katonyo</w>
+<w rt="kato">kato</w>
+<w rt="nyo">nyo</w>
 <g/>
 <pu>.</pu>
 </s>
@@ -2439,7 +2440,7 @@
 <doc url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201815.txt" subcorpus="var_sarawak">
 <s id="var_sarawak.0000146" subcorpus="var_sarawak" url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201815.txt">
 <w rt="apabilo">Apabilo</w>
-<w rt="tahan" p1="di-">ditahan</w>
+<w rt="tahan" p1="di-" pa="oleh">ditahan</w>
 <w rt="wad">wad</w>
 <w rt="yo">yo</w>
 <w rt="tek">tek</w>
@@ -2597,7 +2598,7 @@
 <w rt="nak">nak</w>
 <w rt="tuk">tuk</w>
 <w rt="dah">dah</w>
-<w rt="terapi" p1="di-">diterapi</w>
+<w rt="terapi" p1="di-" pa="pro">diterapi</w>
 <w rt="bak">bak</w>
 <w rt="nak">nak</w>
 <w rt="tuk">tuk</w>
@@ -3153,7 +3154,7 @@
 <w rt="rumah">Rumah</w>
 <w rt="be">be</w>
 <w rt="semen" p1="ber-">besemen</w>
-<w rt="tail">betail</w>
+<w rt="tail" p1="ber-">betail</w>
 <w rt="macam">macam</w>
 <w rt="tuk">tuk</w>
 <w rt="sik">sik</w>
@@ -3169,7 +3170,7 @@
 <g/>
 <pu>,</pu>
 <w rt="rumah">rumah</w>
-<w rt="beri" p1="di-">diberi</w>
+<w rt="beri" p1="di-" pa="DP">diberi</w>
 <w rt="urang">urang</w>
 <w rt="macam">macam</w>
 <w rt="apa">apa</w>
@@ -3776,7 +3777,7 @@
 <pu>,</pu>
 <w rt="ikan">ikan</w>
 <w rt="tok">tok</w>
-<w rt="buang" p1="di-">dibuang</w>
+<w rt="buang" p1="di-" pa="DP">dibuang</w>
 <w rt="burong">burong</w>
 <w rt="tek">tek</w>
 <g/>
@@ -3803,7 +3804,7 @@
 <w rt="nyey">nyey</w>
 <w rt="ikan">ikan</w>
 <w rt="tu">tu</w>
-<w rt="buang" p1="di-">dibuang</w>
+<w rt="buang" p1="di-" pa="DP">dibuang</w>
 <w rt="burong">burong</w>
 <w rt="tu">tu</w>
 <w rt="tek">tek</w>
@@ -3818,13 +3819,13 @@
 <w rt="tek">tek</w>
 <w rt="ikan">ikan</w>
 <w rt="tu">tu</w>
-<w rt="makan" p1="di-">dimakan</w>
+<w rt="makan" p1="di-" pa="oleh">dimakan</w>
 <w rt="uleh">uleh</w>
 <w rt="munsang">munsang</w>
 <g/>
 <pu>,</pu>
 <w rt="alu">alu</w>
-<w rt="embak" p1="di-">diembak</w>
+<w rt="embak" p1="di-" pa="DP">diembak</w>
 <w rt="nyey">nyey</w>
 <w rt="lari">lari</w>
 <g/>
@@ -3847,7 +3848,7 @@
 <w rt="nya">nya</w>
 <w rt="dah">dah</w>
 <w rt="kenyang">kenyang</w>
-<w rt="diat" p1="N-">ndiatlah</w>
+<w rt="diat" p1="N-" s1="-lah">ndiatlah</w>
 <g/>
 <pu>.</pu>
 </s>
@@ -3955,7 +3956,7 @@
 <g/>
 <pu>,</pu>
 <w rt="alu">alu</w>
-<w rt="buang" p1="di-">dibuang</w>
+<w rt="buang" p1="di-" pa="oleh">dibuang</w>
 <w rt="oleh">oleh</w>
 <w rt="burong">burong</w>
 <w rt="tek">tek</w>
@@ -4047,7 +4048,7 @@
 <g/>
 <pu>,</pu>
 <w rt="embak">embak</w>
-<w rt="Nye">nye</w>
+<w rt="nye">nye</w>
 <w rt="atas">atas</w>
 <w rt="pokok">pokok</w>
 <g/>
@@ -4106,7 +4107,7 @@
 <w rt="sik">sik</w>
 <w rt="maok">maok</w>
 <w rt="makan">makan</w>
-<w rt="berik" p1="di-">diberik</w>
+<w rt="berik" p1="di-" pa="pro">diberik</w>
 <w rt="ngan">ngan</w>
 <w rt="munsang">munsang</w>
 <g/>
@@ -4248,7 +4249,7 @@
 <g/>
 <pu>,</pu>
 <w rt="tuk">tuk</w>
-<w rt="buang" p1="di-">dibuang</w>
+<w rt="buang" p1="di-" pa="pro">dibuang</w>
 <g/>
 <pu>.</pu>
 </s>
@@ -4564,7 +4565,7 @@
 <w rt="pak">Pak</w>
 <w rt="cik">cik</w>
 <w rt="alu">alu</w>
-<w rt="golek">tegolek</w>
+<w rt="golek" p1="ter-">tegolek</w>
 <g/>
 <pu>,</pu>
 <w rt="duak">duak</w>
@@ -4744,7 +4745,7 @@
 <w rt="Jadi">Jadi</w>
 <g/>
 <pu>,</pu>
-<w rt="tinggal" p1="di-">ditinggal</w>
+<w rt="tinggal" p1="di-" pa="DP">ditinggal</w>
 <w rt="nya">nya</w>
 <w rt="kelak">kelak</w>
 <w rt="jadi">jadi</w>
@@ -4762,12 +4763,12 @@
 <s id="var_sarawak.0000289" subcorpus="var_sarawak" url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201823.txt">
 <w rt="bila">Bila</w>
 <w rt="dah">dah</w>
-<w rt="pecah" p1="di-">dipecah</w>
+<w rt="pecah" p1="di-" pa="pro">dipecah</w>
 <w rt="dalam">dalam</w>
 <w rt="tepung">tepung</w>
 <g/>
 <pu>,</pu>
-<w rt="tumbok" p1="di-">ditumbok</w>
+<w rt="tumbok" p1="di-" pa="DP">ditumbok</w>
 <w rt="nyo">nyo</w>
 <w rt="ndak">ndak</w>
 <pu>.</pu>
@@ -4811,7 +4812,7 @@
 </doc>
 <doc url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201823.txt" subcorpus="var_sarawak">
 <s id="var_sarawak.0000292" subcorpus="var_sarawak" url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201823.txt">
-<w rt="pinum" p1="di-">Dipinum</w>
+<w rt="pinum" p1="di-" pa="pro">Dipinum</w>
 <w rt="semo">semo</w>
 <w rt="kerin">kerin</w>
 <g/>
@@ -5216,8 +5217,8 @@
 <s id="var_sarawak.0000320" subcorpus="var_sarawak" url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201824.txt">
 <w rt="sik">Sik</w>
 <w rt="apat">apat</w>
-<w rt="kepong" p1="di-">dikepong</w>
-<w rt="Nye">nye</w>
+<w rt="kepong" p1="di-" pa="DP">dikepong</w>
+<w rt="nye">nye</w>
 <w rt="burong">burong</w>
 <w rt="a">a</w>
 <w rt="tek">tek</w>
@@ -5410,7 +5411,7 @@
 <w rt="nak">nak</w>
 <w rt="makan">makan</w>
 <w rt="ikan">ikan</w>
-<w rt="makan" p1="di-">dimakan</w>
+<w rt="makan" p1="di-" pa="DP">dimakan</w>
 <w rt="burong">burong</w>
 <w rt="a">a</w>
 <w rt="tek">tek</w>
@@ -5481,7 +5482,7 @@
 <doc url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201824.txt" subcorpus="var_sarawak">
 <s id="var_sarawak.0000338" subcorpus="var_sarawak" url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201824.txt">
 <w rt="nak">Nak</w>
-<w rt="makan" p1="di-">dimakan</w>
+<w rt="makan" p1="di-" pa="pro">dimakan</w>
 <w rt="tuk">tuk</w>
 <g/>
 <pu>.</pu>
@@ -5522,7 +5523,7 @@
 <pu>#</pu>
 <pu>#</pu>
 <w rt="nak">nak</w>
-<w rt="ambik" p1="di-">diambik</w>
+<w rt="ambik" p1="di-" pa="pro">diambik</w>
 <w rt="a">a</w>
 <w rt="tek">tek</w>
 <g/>
@@ -5571,7 +5572,7 @@
 <w rt="sik">Sik</w>
 <w rt="temu" p1="N-">nemu</w>
 <w rt="urang">ureang</w>
-<w rt="Nye">nye</w>
+<w rt="nye">nye</w>
 <w rt="tek">tek</w>
 <g/>
 <pu>.</pu>
@@ -5748,18 +5749,18 @@
 <g/>
 <pu>,</pu>
 <w rt="ikan">ikan</w>
-<w rt="gugok" p1="di-">digugok</w>
+<w rt="gugok" p1="di-" pa="pro">digugok</w>
 <w rt="atas">atas</w>
 <w rt="yo">yo</w>
 <w rt="tek">tek</w>
 <g/>
 <pu>,</pu>
-<w rt="ambik" p1="di-">diambik</w>
+<w rt="ambik" p1="di-" pa="DP">diambik</w>
 <w rt="nyo">nyo</w>
 <w rt="tek">tek</w>
 <g/>
 <pu>,</pu>
-<w rt="embak" p1="di-">diembak</w>
+<w rt="embak" p1="di-" pa="DP">diembak</w>
 <w rt="nya">nya</w>
 <w rt="lari">lari</w>
 <g/>
@@ -5769,7 +5770,7 @@
 <doc url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201825.txt" subcorpus="var_sarawak">
 <s id="var_sarawak.0000361" subcorpus="var_sarawak" url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201825.txt">
 <w rt="nyo">Nyo</w>
-<w rt="embak" p1="di-">diembak</w>
+<w rt="embak" p1="di-" pa="DP">diembak</w>
 <w rt="nyo">nyo</w>
 <w rt="rekot" p1="ber-">berekot</w>
 <w rt="ke">ke</w>
@@ -5808,7 +5809,7 @@
 <w rt="do">do</w>
 <w rt="agik">agik</w>
 <w rt="nak">nak</w>
-<w rt="agak" p1="di-">diagak</w>
+<w rt="agak" p1="di-" pa="DP">diagak</w>
 <w rt="nyey">nyey</w>
 <g/>
 <pu>.</pu>
@@ -5886,7 +5887,7 @@
 <g/>
 <pu>,</pu>
 <w rt="nak">nak</w>
-<w rt="ambik" p1="di-">diambik</w>
+<w rt="ambik" p1="di-" pa="DP">diambik</w>
 <w rt="nya">nya</w>
 <w rt="tek">tek</w>
 <w rt="sik">sik</w>
@@ -6048,7 +6049,7 @@
 <w rt="ikan">Ikan</w>
 <w rt="yo">yo</w>
 <w rt="tek">tek</w>
-<w rt="ambik" p1="di-">diambik</w>
+<w rt="ambik" p1="di-" pa="oleh">diambik</w>
 <w rt="oleh">oleh</w>
 <w rt="munsang">munsang</w>
 <w rt="a">a</w>
@@ -6105,7 +6106,7 @@
 <g/>
 <pu>:</pu>
 <w rt="dah">Dah</w>
-<w rt="makan" p1="di-">dimakan</w>
+<w rt="makan" p1="di-" pa="pro">dimakan</w>
 <g/>
 <pu>?</pu>
 <pu>]</pu>
@@ -6114,7 +6115,7 @@
 <doc url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201825.txt" subcorpus="var_sarawak">
 <s id="var_sarawak.0000383" subcorpus="var_sarawak" url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201825.txt">
 <w rt="dah">Dah</w>
-<w rt="makan" p1="di-">dimakan</w>
+<w rt="makan" p1="di-" pa="DP">dimakan</w>
 <w rt="nyey">nyey</w>
 <g/>
 <pu>.</pu>
@@ -6341,7 +6342,7 @@
 <w rt="sik">sik</w>
 <w rt="takut">takut</w>
 <w rt="nak">nak</w>
-<w rt="ambik" p1="di-">diambik</w>
+<w rt="ambik" p1="di-" pa="oleh">diambik</w>
 <w rt="leh">leh</w>
 <w rt="nak">nak</w>
 <w rt="yo">yo</w>
@@ -6471,7 +6472,7 @@
 </doc>
 <doc url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201827.txt" subcorpus="var_sarawak">
 <s id="var_sarawak.0000404" subcorpus="var_sarawak" url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201827.txt">
-<w rt="mo" r="R-penuh+R-separa">Momomo</w>
+<w rt="momo" r="R-separa">Momomo</w>
 <w rt="atang">atang</w>
 <w rt="rumah">rumah</w>
 <w rt="kito">kito</w>
@@ -6531,7 +6532,7 @@
 </doc>
 <doc url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201827.txt" subcorpus="var_sarawak">
 <s id="var_sarawak.0000408" subcorpus="var_sarawak" url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201827.txt">
-<w rt="suko" p1="ber-">Besuko</w>
+<w rt="suko">Besuko</w>
 <w rt="rio">rio</w>
 <w rt="kito">kito</w>
 <w rt="tek">tek</w>
@@ -6620,7 +6621,7 @@
 <w rt="sedih">sedih</w>
 <w rt="ati">ati</w>
 <w rt="tok">tok</w>
-<w rt="tinggai" p1="di-">ditinggai</w>
+<w rt="tinggai" p1="di-" pa="DP">ditinggai</w>
 <w rt="anak">anak</w>
 <w rt="tak">tak</w>
 <w rt="pulang">pulang</w>
@@ -6695,11 +6696,11 @@
 <w rt="kilan" p1="peN-">pengilan</w>
 <w rt="nda">nda</w>
 <w rt="nak">nak</w>
-<w rt="tetak" p1="ber-">betetak</w>
+<w rt="tetak">betetak</w>
 <w rt="manok">manok</w>
 <g/>
 <pu>,</pu>
-<w rt="tetak" p1="ber-">betetak</w>
+<w rt="tetak">betetak</w>
 <w rt="indah">indah</w>
 <g/>
 <pu>,</pu>
@@ -6714,7 +6715,7 @@
 </doc>
 <doc url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201829.txt" subcorpus="var_sarawak">
 <s id="var_sarawak.0000419" subcorpus="var_sarawak" url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201829.txt">
-<w rt="goreng" p1="ber-" s1="-lah">Begorenglah</w>
+<w rt="goreng" s1="-lah">Begorenglah</w>
 <w rt="kito">kito</w>
 <w rt="basak" p1="N-">mbasak</w>
 <w rt="nak">nak</w>
@@ -6756,7 +6757,7 @@
 </doc>
 <doc url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201829.txt" subcorpus="var_sarawak">
 <s id="var_sarawak.0000422" subcorpus="var_sarawak" url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201829.txt">
-<w rt="jemput" p1="di-">Dijemput</w>
+<w rt="jemput" p1="di-" pa="pro">Dijemput</w>
 <w rt="ndak">ndak</w>
 <w rt="urang">urang</w>
 <w rt="datang">datang</w>
@@ -6799,7 +6800,7 @@
 <pu>:</pu>
 <w rt="Apo">Apo</w>
 <w rt="salu">salu</w>
-<w rt="masak" p1="di-">dimasak</w>
+<w rt="masak" p1="di-" pa="pro">dimasak</w>
 <w rt="ah">ah</w>
 <g/>
 <pu>?</pu>
@@ -6822,7 +6823,7 @@
 <w rt="apa">Apa</w>
 <w rt="lauk">lauk</w>
 <w rt="selalu">selalu</w>
-<w rt="masak" p1="di-">dimasak</w>
+<w rt="masak" p1="di-" pa="pro">dimasak</w>
 <g/>
 <pu>?</pu>
 <pu>]</pu>
