@@ -100,4 +100,4 @@ Mohd. Ali Salim. 2015. _Dialek Melayu Sarawak: Perkataan, Ayat dan Perbualan._ K
 
 - Bab 13, Cerpen
 - Jumlah token: 2,003
-
+- Terjemahan dari karya asal dalam bahasa Melayu Standard yang telah disiarkan dalam majalah _Pelita Bahasa_, DBP, Ogos 2007.
