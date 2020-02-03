@@ -520,7 +520,7 @@
 <doc url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201803.txt" subcorpus="var_sarawak">
 <s id="var_sarawak.0000035" subcorpus="var_sarawak" url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201803.txt">
 <w rt="kamek">Kamek</w>
-<w rt="madah">madah</w>
+<w rt="padah" p1="N-">madah</w>
 <w rt="ngan">ngan</w>
 <w rt="burong">burong</w>
 <g/>
@@ -1489,7 +1489,7 @@
 <s id="var_sarawak.0000096" subcorpus="var_sarawak" url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201811.txt">
 <w rt="sang">Sang</w>
 <w rt="kancil">kancil</w>
-<w rt="madah">madah</w>
+<w rt="padah" p1="N-">madah</w>
 <w rt="Eh">Eh</w>
 <g/>
 <pu>,</pu>
@@ -1498,7 +1498,7 @@
 <g/>
 <pu>,</pu>
 <w rt="nya">nya</w>
-<w rt="madah">madah</w>
+<w rt="padah" p1="N-">madah</w>
 <g/>
 <pu>,</pu>
 <w rt="bukan">Bukan</w>
@@ -2426,7 +2426,7 @@
 <pu>,</pu>
 <w rt="sidak">sidak</w>
 <w rt="ya">ya</w>
-<w rt="madah">madah</w>
+<w rt="padah" p1="N-">madah</w>
 <w rt="nya">nya</w>
 <w rt="tuk">tuk</w>
 <w rt="mok">mok</w>
@@ -2543,7 +2543,7 @@
 <w rt="jadi">jadi</w>
 <w rt="sidak">sidak</w>
 <w rt="hospital">hospital</w>
-<w rt="madah">madah</w>
+<w rt="padah" p1="N-">madah</w>
 <g/>
 <pu>,</pu>
 <w rt="O">O</w>
@@ -4375,7 +4375,7 @@
 <pu>,</pu>
 <w rt="kamek">kamek</w>
 <w rt="situk">situk</w>
-<w rt="madah">madah</w>
+<w rt="padah" p1="N-">madah</w>
 <w rt="perauk" s1="-lah">perauklah</w>
 <g/>
 <pu>,</pu>
