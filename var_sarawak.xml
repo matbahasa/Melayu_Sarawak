@@ -3043,6 +3043,7 @@
 <w rt="main">main</w>
 <w rt="aik">aik</w>
 <w rt="masin">masin</w>
+<pu>.</pu>
 </s>
 </doc>
 <doc url="https://github.com/matbahasa/Melayu_Sarawak/blob/master/Sarawak201817.txt" subcorpus="var_sarawak">
@@ -4187,8 +4188,7 @@
 <pu>,</pu>
 <w rt="pak">pak</w>
 <w rt="cik">cik</w>
-<w rt="sorang">sorang</w>
-<w rt="lah">lah</w>
+<w rt="sorang" s1="-lah">soranglah</w>
 <w rt="dalam">dalam</w>
 <w rt="sampan">sampan</w>
 <g/>
@@ -5429,7 +5429,7 @@
 <w rt="tek">tek</w>
 <w rt="nak">nak</w>
 <g/>
-<pu>.</pu>
+<pu>,</pu>
 <w rt="nak">nak</w>
 <w rt="agak">agak</w>
 <w rt="burong">burong</w>

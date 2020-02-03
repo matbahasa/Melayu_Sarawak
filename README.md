@@ -23,11 +23,11 @@ Hiroki Nomoto. 2019. _Korpus Variasi Bahasa Melayu: Sarawak_.
 |Sarawak201813|Musang dan gagak (tanpa gambar)  |Monolog| 0:41 |   93       | 3        |
 |Sarawak201814|Musang dan gagak (sebagai watak) |Monolog| 0:41 |   99       | 3        |
 |Sarawak201815|Cerita sedih                     |Monolog| 4:55 |  624       | 3        |
-|Sarawak201817|Sejarah kampung                  |Monolog| 3:23 |  466       | 3        |
+|Sarawak201817|Sejarah kampung                  |Monolog| 3:23 |  467       | 3        |
 |Sarawak201818|Musang dan gagak (dengan gambar) |Monolog| 0:58 |  116       | 4        |
 |Sarawak201819|Musang dan gagak (tanpa gambar)  |Monolog| 0:41 |   99       | 4        |
 |Sarawak201820|Musang dan gagak (sebagai watak) |Monolog| 0:28 |   60       | 4        |
-|Sarawak201821|Cerita menakutkan                |Monolog| 1:28 |  202       | 4        |
+|Sarawak201821|Cerita menakutkan                |Monolog| 1:28 |  201       | 4        |
 |Sarawak201822|Cerita gembira                   |Monolog| 1:01 |  149       | 4        |
 |Sarawak201823|Cerita rakyat                    |Monolog| 1:26 |  199       | 4        |
 |Sarawak201824|Musang dan gagak (dengan gambar) |Monolog| 2:38 |  424       | 5        |
